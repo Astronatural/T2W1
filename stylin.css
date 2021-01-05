@@ -1,0 +1,20 @@
+h1,h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+table {
+    border: 5px solid black;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+th, td {
+    border: 2px solid grey;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
